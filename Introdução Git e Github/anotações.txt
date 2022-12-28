@@ -1,3 +1,0 @@
-#link para o setup git 
-
-https://git-scm.com

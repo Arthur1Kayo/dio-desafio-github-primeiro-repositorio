@@ -1,0 +1,3 @@
+#link para o setup git: https://git-scm.com
+
+Git bash is an extended terminal to optimize the use of Git.
